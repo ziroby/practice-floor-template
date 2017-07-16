@@ -38,7 +38,7 @@ Git repository:
 
 ```bash
 git remote add template git@bitbucket.org:ziroby/practice-floor.git
-git pull remote master
+git pull template master
 ```
 
 If you want updated copies of the README's in the master template:
