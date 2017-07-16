@@ -44,12 +44,12 @@ git pull remote master
 If you want updated copies of the README's in the master template:
 
 ```bash
-git pull remote master
+git pull template master
 ```
 
 ## Doing a Kata
 
-1. Set a timer for one hour.
+1. Set a timer for thirty minutes or one hour.
 
 2. Pick a goal.
 
