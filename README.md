@@ -37,7 +37,7 @@ directory structure, add the main Practice Floor Git repository to your
 Git repository:
 
 ```bash
-git remote add template git@bitbucket.org:ziroby/practice-floor.git
+git remote add template git@bitbucket.org:ziroby/practice-floor-template.git
 git pull template master
 ```
 
