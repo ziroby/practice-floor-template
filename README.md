@@ -66,7 +66,7 @@ git pull template master
 
 4. You may copy code from any other directory in the practice floor.
 
-5. Try to get your goal complete in the hour you have. Don't stress too
+5. Try to get your goal complete in the time you have. Don't stress too
 much if you don't.
 
 5. If you finish or get stuck, start over another attempt. Do not add time to the timer.
