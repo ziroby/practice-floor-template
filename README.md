@@ -39,7 +39,6 @@ main Practice Floor Git repository:
 ```bash
 git init
 git remote add origin <your-git-URL>
-git pull origin master
 git remote add template git@bitbucket.org:ziroby/practice-floor-template.git
 git pull template master
 ```
@@ -82,3 +81,8 @@ git pull template master
 6. When you're done, add to PROGRESS.md how far you got and any lessons learned.
 
 7. Commit and push to your personal Practice Floor.
+
+## Disclaimer
+
+All thoughts and opinions are my own. I do not represent my employer,
+or any other party, in any way.
